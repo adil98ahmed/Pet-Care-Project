@@ -1,0 +1,32 @@
+{
+    "petServices":{
+        "email":"",
+        "name":"",
+        "groomingServices":[""],
+        "serviceName":"",
+        "Location":{
+            "lat":1.2,
+            "long":1.2
+        },
+        "reviews":[
+            {
+                "autherId":"",
+                "review":""
+            }
+        ],
+        "like":[""],
+        "dislike":[""],
+        "phone":"",
+        "address":"",
+        "picture":"",
+        "products":[
+            {
+                "productName":"",
+                "price":1.2,
+                "productPic":""              
+            }
+        ]
+
+
+    }
+}
